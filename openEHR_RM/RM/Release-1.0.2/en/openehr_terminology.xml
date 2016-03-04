@@ -16,6 +16,7 @@
 	<group name="composition category">
 		<concept id="431" rubric="persistent"/>
 		<concept id="433" rubric="event"/>
+		<concept id="434" rubric="report"/>
 	</group>
 	<group name="property">
 		<concept id="119" rubric="Concentration"/>
